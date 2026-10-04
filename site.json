@@ -1,7 +1,11 @@
 {
-  "title": "evoxuan 的个人博客",
-  "name": "evoxuan",
-  "description": "文章与笔记，想法与记录。",
+  "title": "化玄 · 文章、产品与成长",
+  "name": "化玄",
+  "description": "写东西，做产品，也记录成长。这里以文章为核心，连接数据故事、个人项目与持续更新的记录。",
   "url": "https://evoxuan.github.io",
-  "github": "https://github.com/evoxuan"
+  "github": "https://github.com/evoxuan",
+  "statsEndpoint": "https://huaxuan-visitor-statistics.evoxuan.chatgpt.site",
+  "statsEnabled": false,
+  "socials": [{"name":"GitHub","url":"https://github.com/evoxuan"}],
+  "nowUpdated": "2026-10-04"
 }

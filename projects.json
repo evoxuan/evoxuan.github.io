@@ -1,0 +1,11 @@
+[
+  {
+    "slug": "personal-website",
+    "title": "化玄个人网站",
+    "description": "把文章、数据故事和项目放在一个持续更新的地方，支持内容检索与清晰的长文阅读。",
+    "status": "实验中",
+    "url": "https://github.com/evoxuan/evoxuan.github.io",
+    "linkLabel": "查看代码",
+    "detail": "这个网站是目前可以公开访问的项目。文章用 Markdown 维护，前台发布在 GitHub Pages，支持标题、摘要和标签搜索，并为长文章提供目录。"
+  }
+]
