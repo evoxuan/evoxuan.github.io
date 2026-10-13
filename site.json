@@ -8,12 +8,16 @@
   "statsEnabled": false,
   "socials": [
     {
-      "name": "GitHub",
-      "url": "https://github.com/evoxuan"
+      "name": "抖音",
+      "url": "https://v.douyin.com/vyaUr09J2fw/"
     },
     {
       "name": "小红书",
       "url": "https://www.xiaohongshu.com/user/profile/6813957d000000000e010281"
+    },
+    {
+      "name": "GitHub",
+      "url": "https://github.com/evoxuan"
     }
   ],
   "nowUpdated": "2026-10-04"
