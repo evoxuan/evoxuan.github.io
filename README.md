@@ -1,6 +1,6 @@
 # 化玄个人网站
 
-网站：https://evoxuan.github.io/  
+网站：https://evoxuan.com/  
 仓库：https://github.com/evoxuan/evoxuan.github.io
 
 首页、文章搜索与分类、阅读目录、数据故事、项目与关于页均由 Markdown 和配置生成。网页由 GitHub Pages 发布。访问人数统计依照本人最新要求暂不启用。
