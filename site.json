@@ -1,11 +1,20 @@
 {
-  "title": "化玄 · 文章、产品与成长",
+  "title": "化玄 EVOXUAN · 学习方法、成绩档案与作品",
   "name": "化玄",
-  "description": "写东西，做产品，也记录成长。这里以文章为核心，连接数据故事、个人项目与持续更新的记录。",
+  "description": "我是化玄，高考 663 分，语文 135 分。这里收录语文学习方法、真实高中成绩档案，以及学习与创作中的工具和作品。",
   "url": "https://evoxuan.github.io",
   "github": "https://github.com/evoxuan",
   "statsEndpoint": "https://huaxuan-visitor-statistics.evoxuan.chatgpt.site",
   "statsEnabled": false,
-  "socials": [{"name":"GitHub","url":"https://github.com/evoxuan"}],
+  "socials": [
+    {
+      "name": "GitHub",
+      "url": "https://github.com/evoxuan"
+    },
+    {
+      "name": "小红书",
+      "url": "https://www.xiaohongshu.com/user/profile/6813957d000000000e010281"
+    }
+  ],
   "nowUpdated": "2026-10-04"
 }
